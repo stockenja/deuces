@@ -1,15 +1,13 @@
 Deuces
 ========
 
-A pure Python poker hand evaluation library
+A pure Python 3 (upgraded by Stockenja) poker hand evaluation library
 
     [ 2 ❤ ] , [ 2 ♠ ]
     
 ## Installation
 
-```
-$ pip install deuces
-```
+Unlike the original Deuces, to use this upgraded version, we recommend using Git submodules and add the root of this project to your Python path.
 
 ## Implementation notes
 
